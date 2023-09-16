@@ -1,5 +1,9 @@
 # HTTPStatus
 
+<p align="center">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqgD8itr5TeyY1NWYnpYmXufsFaA99Q9aw5uX3bVAU025x90rWHEC2QG6E6i0EOoFbxKR688cDutW3ReXsdoVuO_L8DDqT44hkOIlV7u9o4IHX6I_BBPmOFpwEm71M58Q4Va6lQ0hS-45QG_AXwAxdeYUYJE_nLlPNQrk1XZWIKB-fniI3XF0TQgCjkFE/s1600/Screenshot%202023-09-16%20213931.png" />
+</p>
+
 To create a Ruby script that checks the status codes of URLs listed in a file, you can use the Net::HTTP library for making HTTP requests.
 
 - It defines a `check_status_code` function that takes a URL as an input, makes an HTTP request to that URL using `Net::HTTP`, and checks the status code of the response.
